@@ -5,7 +5,7 @@ public class BiggestNumber
 
 (String[] args)
  {
-  int x,y,z;
+  int a,b,c;
   Scanner s = new Scanner
 
 (System.in);
@@ -25,7 +25,7 @@ the third number:");
    {
      System.out.println
 
-("Largest number is:"+x);
+("Largest number is:"+a);
    }
    else if(b>a && b>c)
    {
